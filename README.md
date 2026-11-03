@@ -5,7 +5,7 @@
 
 ## HTML Resource: Microsoft Learn
 
-**Website:** htpps://learn.microsoft.com/en-us/training/modules/build-first-html-webpage/
+**Website:** https://learn.microsoft.com/en-us/training/modules/build-first-html-webpage/
 
 Since I have been using Microsoft since high school and for work purposes, I feel like it was best to choose Microsoft Learn as my HTML resource, as it has beginner-friendly sessions where it
 provides explanations on how to create a webpage. It also offers step-by-step guides and examples that will make it easy for someone who is new to HTML to better understand it. 
